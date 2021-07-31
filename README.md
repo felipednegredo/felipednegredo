@@ -1,4 +1,4 @@
-/header.png
+![header](https://github.com/felipednegredo/felipednegredo/blob/main/header.png)
 
 <!--
 **felipednegredo/felipednegredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
