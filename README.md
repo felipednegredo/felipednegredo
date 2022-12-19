@@ -2,10 +2,10 @@
 
 ## About me:
 
-- 💻 Computer Science at Univali / 4nd Period
+- 💻 Computer Science at Univali / 5nd Period
 - 📚 I’m currently learning Python and C++
 - 🌎 Living in Itajaí-SC
-- 📆 19 Years
+- 📆 20 Years
 
 </div>
 <div style="display: inline_block"><br>
