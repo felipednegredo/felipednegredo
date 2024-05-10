@@ -1,6 +1,7 @@
 ![header](https://github.com/felipednegredo/felipednegredo/blob/main/header.png)
 
 <div align ="center">
+  
 ## About me:
 
 - 💻 Computer Science at Univali / 7nd Period
