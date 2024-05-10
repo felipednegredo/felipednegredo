@@ -1,11 +1,15 @@
 ![header](https://github.com/felipednegredo/felipednegredo/blob/main/header.png)
 
+<div align ="center">
 ## About me:
 
 - 💻 Computer Science at Univali / 7nd Period
-- 📚 I’m currently learning Python and C++
+- 📚 I’m currently learning Python and another tecnologies
 - 🌎 Living in Itajaí-SC
+- 💼 Intern at BRF S.A. as RPA Developer and Business Analyst
 - 📆 21 Years
+
+</div>
 
 ## The main technologies
 
@@ -35,7 +39,7 @@
 
   ## Contacts
  
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/felipe_dnegredo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:denegredofelipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-de-negredo-b655271a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
