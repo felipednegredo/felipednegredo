@@ -7,7 +7,7 @@
 </div>
 
 ## Known Technologies
-<div align=“center”> <p>JavaScript</p> <p>C++</p> <p>Python</p> <p>C#</p> <p>Microsoft SQL Server</p> <p>HTML5</p> <p>CSS3</p> <p>UiPath</p> </div>
+<div align=“center”> <p>JavaScript, C/C++, Python, C#, Microsoft SQL Server, HTML5, CSS3, UiPath</p> </div>
 
 ## Contacts
  
