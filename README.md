@@ -2,7 +2,7 @@
 <div align="center"> 
   <h2>Felipe de Negredo</h2> 
   <p>💻 Computer Science at Univali / 7th Period</p> 
-  <p>📚 Currently learning Python and other technologies</p> 
+  <p>📚 Currently learning backend technologies with C#, Python with its frameworks, among others</p> 
   <p>🌎 Living in Itajaí-SC</p> 
   <p>💼 Intern at BRF S.A. as RPA Developer and Business Analyst</p> 
   <p>📆 22 years old</p> 
