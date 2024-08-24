@@ -1,4 +1,4 @@
-## About Me
+# About Me
 <div align=“center”> <h2>Felipe de Negredo</h2> <p>💻 Computer Science at Univali / 7th Period</p> <p>📚 Currently learning Python and other technologies</p> <p>🌎 Living in Itajaí-SC</p> <p>💼 Intern at BRF S.A. as RPA Developer and Business Analyst</p> <p>📆 22 years old</p> </div>
 
 ## Main Technologies
@@ -7,7 +7,7 @@
 </div>
 
 ## Known Technologies
-<div align=“center”> <p>JavaScript, C/C++, Python, C#, Microsoft SQL Server, HTML5, CSS3, UiPath</p> </div>
+<div align=“center”> <p align=“center”>JavaScript, C/C++, Python, C#, Microsoft SQL Server, HTML5, CSS3, UiPath</p> </div>
 
 ## Contacts
  
